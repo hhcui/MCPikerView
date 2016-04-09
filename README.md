@@ -6,7 +6,7 @@
  
 ###示例图
 
-![PikerviewImage](https://github.com/hhcui/MCPikerView/blob/master/pikerview.png = 100x60)
+![PikerviewImage](https://github.com/hhcui/MCPikerView/blob/master/pikerview.png =100x60)
 
 ###控件特性
 
@@ -14,7 +14,7 @@
 	
 ###使用方式
 
-    NSArray *ary = @[@"123",@"123",@"123"];
+    NSArray *ary = @[@"1234",@"1234",@"1243"];
     
     [MCPikerView showWithItemsBlock:^(id<MCClickedItmesProtocol> items) {
         [items addItemsWithPikerView:ary];

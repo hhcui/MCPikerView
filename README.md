@@ -6,7 +6,7 @@
  
 ###示例图
 
-![PikerviewImage](http://cuihh.cn/wp-content/uploads/2016/04/pikerview.png)
+![PikerviewImage](https://github.com/hhcui/MCPikerView/blob/master/pikerview.png)
 
 ###控件特性
 
